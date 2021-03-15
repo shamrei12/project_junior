@@ -1,1 +1,1 @@
-# project_junior
+My first project
